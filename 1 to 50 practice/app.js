@@ -30,7 +30,7 @@ for(var i=0;i<4;i++)
         var dish=prompt("Enter your Dishes here!!!");
         arr.push(dish);
     }
-for(var j=0;j<arr.ptlength;j++)
+for(var j=0;j<arr.length;j++)
     {
         console.log(arr[j])
     }
